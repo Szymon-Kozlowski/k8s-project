@@ -15,4 +15,4 @@ The objective of this project was to automate the deployment and management of c
 
 ## Project Structure
 - **my-nginx/**: The complete Helm chart directory, containing the infrastructure templates and the `values.yaml` configuration file.
-- **health_check.py**: A custom Python script used to monitor the status of Kubernetes pods and verify the deployment.
+- **health_check.py**: A custom Python script used to monitor the status of Kubernetes pods. 
